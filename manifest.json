@@ -1,9 +1,9 @@
 {
-  "name": "render-guide",
+  "name": "privacy-policy",
   "vendor": "sngular",
   "version": "0.1.0",
-  "title": "Render Guide",
-  "description": "VTEX IO Render Guide",
+  "title": "Privacy Policy",
+  "description": "VTEX Privacy Policy Module",
   "scripts": {
     "prereleasy": "bash pre.sh"
   },
