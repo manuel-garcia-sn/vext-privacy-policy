@@ -8,7 +8,7 @@
     "prereleasy": "bash pre.sh"
   },
   "builders": {
-    "pages": "1.x",
+    "store": "0.x",
     "react": "3.x"
   },
   "dependencies": {
