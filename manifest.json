@@ -1,0 +1,23 @@
+{
+  "name": "privacy-policy",
+  "vendor": "sngular",
+  "version": "0.1.3-beta.0",
+  "title": "Privacy Policy",
+  "description": "VTEX Privacy Policy Module",
+  "scripts": {
+    "prereleasy": "bash pre.sh"
+  },
+  "builders": {
+    "pages": "1.x",
+    "react": "3.x"
+  },
+  "dependencies": {
+    "vtex.graphql-example": "0.x",
+    "vtex.styleguide": "9.x"
+  },
+  "mustUpdateAt": "2020-08-08",
+  "registries": [
+    "smartcheckout"
+  ],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
