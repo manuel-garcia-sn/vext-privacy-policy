@@ -1,8 +1,0 @@
-{
-  "guide.home": {
-    "path": "/privacy-policy"
-  },
-  "guide.topic": {
-    "path": "/privacy-policy/:topic"
-  }
-}
